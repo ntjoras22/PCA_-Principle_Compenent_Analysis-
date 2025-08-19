@@ -2,7 +2,7 @@
 This repository demonstrates Principal Component Analysis (PCA) applied to image data for dimensionality reduction, compression, and reconstruction. The code performs PCA separately on the Red, Green, and Blue (RGB) channels of an image to reduce data dimensionality while preserving most of the visual information.
 
 #Overview
-*Resize an input image to 256x256 pixels.
+*      Resize an input image to 256x256 pixels.
 
 *Extract and visualize each RGB channel.
 
