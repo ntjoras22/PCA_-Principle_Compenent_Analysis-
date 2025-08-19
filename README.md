@@ -3,7 +3,7 @@ This repository demonstrates Principal Component Analysis (PCA) applied to image
 
 # Overview
 
-    Resize an input image to 256x256 pixels.
+   * Resize an input image to 256x256 pixels.
 
     Extract and visualize each RGB channel.
 
@@ -37,7 +37,7 @@ This approach enables significant compression by selecting top principal compone
 
     Intuitive plotting of PCA results for each channel.
 
-#How to Use
+# How to Use
      
     Run the script in a Python environment (Google Colab recommended).
 
