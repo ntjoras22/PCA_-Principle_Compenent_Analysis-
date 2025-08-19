@@ -1,7 +1,7 @@
-#PCA Image Compression and Reconstruction
+# PCA Image Compression and Reconstruction
 This repository demonstrates Principal Component Analysis (PCA) applied to image data for dimensionality reduction, compression, and reconstruction. The code performs PCA separately on the Red, Green, and Blue (RGB) channels of an image to reduce data dimensionality while preserving most of the visual information.
 
-#Overview
+# Overview
 
     Resize an input image to 256x256 pixels.
 
@@ -25,7 +25,7 @@ This repository demonstrates Principal Component Analysis (PCA) applied to image
 
 This approach enables significant compression by selecting top principal components that capture most of the variance, achieving an efficient representation of the original image.
 
-#Features
+# Features
              
     Image upload support for flexible input.
 
@@ -49,7 +49,7 @@ This approach enables significant compression by selecting top principal compone
 
     Optionally upload additional images to view outputs.
 
-#Requirements
+# Requirements
 
     Python 3.x
 
@@ -61,7 +61,7 @@ This approach enables significant compression by selecting top principal compone
 
     Google Colab (for the upload functionality)
 
-#File Structure
+# File Structure
 
 pca.py: Main script implementing PCA-based image analysis.
 
